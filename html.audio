@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio</title>
+</head>
+<body>
+<!-- Reprodução simples de áudio -->
+<video controls="" autoplay="" name="media">
+    <source src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Test_avi_audio_only.ogg" type="application/ogg">
+</video>
+</body>
+</html>
+
