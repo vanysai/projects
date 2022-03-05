@@ -13,3 +13,4 @@ const calc = (e)==> {
       if(isNaN(result)){result = "0"}
 
       local.innerText = result;
+}
